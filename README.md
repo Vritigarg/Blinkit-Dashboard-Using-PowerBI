@@ -8,4 +8,5 @@ Avg Rating,
 Total Sales by Outlet Establishment etc
 
 ## The Interactive Dashboard Looks like this
+![Image](https://github.com/user-attachments/assets/c9cfed62-e76a-461f-8f7a-bf2a0bf185cd)
 
