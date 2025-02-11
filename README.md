@@ -6,3 +6,6 @@ Total Sales,
 Avergae Sales,
 Avg Rating,
 Total Sales by Outlet Establishment etc
+
+## The Interactive Dashboard Looks like this
+
